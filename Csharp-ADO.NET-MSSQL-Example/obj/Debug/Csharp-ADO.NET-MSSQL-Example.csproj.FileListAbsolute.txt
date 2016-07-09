@@ -1,0 +1,1 @@
+c:\users\niko\documents\visual studio 2013\Projects\Csharp-ADO.NET-MSSQL-Example\Csharp-ADO.NET-MSSQL-Example\bin\Debug\Csharp-ADO.NET-MSSQL-Example.exe.config
